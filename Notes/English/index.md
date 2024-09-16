@@ -244,3 +244,16 @@ Types:
 - Retualastic touch (greeting and departure) 
 - Hybrid touch (greeting and love) task related touch
 - Accidental touch
+
+  ---
+
+  ***INTRODUCTION TO BUSINESS COMMUNICATION***
+
+  **BUSINESS COMMUNICATION**
+
+  *MEANING AND DEFINATION OF COMMNUICATION*
+
+  The term communication is derives from the Latin word **communicare** which refers to sharing contributing, informing,popularising and spreading.
+  Communication can be expressed as a process in which individuals (two or more) share their views,suggestions,evidences,thougyhts and feelings. The individuals involved in this process are known as sender or reciever.
+
+  
